@@ -6,7 +6,8 @@ Asymmetric Encryption:  Also known as public key encryption (public key can be p
 Symmetric Encryption:  Also known as shared key or secret key encryption.  Private key can be sent out-of-band
   * Remember: 23BRAIDS   TwoFish, 3DES, Blowfish, RC5, AES, IDEA, DES, SAFER
 --------------------------------------------------------------------------------------------------------------------------
-Hash Functions:  *think of the doctor: SHA HAVAL, MD
+Hash Functions: *think of the doctor: SHA HAVAL, MD
+
 --------------------------------------------------------------------------------------------------------------------------  
 OSI Model:  Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)
   * Remember: "Please Do Not Throw Sausage Pizza Away" (going up)
@@ -15,13 +16,17 @@ OSI Model:  Physical (Level 1), Datalink, Network, Transport, Session, Presentat
 Risk Management
   ALE = ARO x SLE   *think  "Ale causes arousle" 
   SLE = AV x EF
+  
 --------------------------------------------------------------------------------------------------------------------------  
 4 D's of Physical Security: Deter → Deny → Detect → Delay
+
 --------------------------------------------------------------------------------------------------------------------------
 Multi-Factor Authentiation:  Something you know, something you have, something you are
+
 --------------------------------------------------------------------------------------------------------------------------
 TCP Header Flags:  URG  ACK  PSH  RST  SYN  FIN
   *think "Unskilled Attackers Pester Real Security Folks"
+  
 --------------------------------------------------------------------------------------------------------------------------
 Confidentiality and Integrity Models
 Simple Property: for read "Reading is simpler than writing."
