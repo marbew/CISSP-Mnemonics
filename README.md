@@ -39,5 +39,13 @@ Bell-LaPadula is confidential:  No read up and No write down.  "WURD"
 Biba will be opposite 
   * Remember: you can't write up as it would "pollute" the data
 --------------------------------------------------------------------------------------------------------------------------             
-             
+System Security Modes (for systems that process classified data, what each user is required to have)
+
+  * Dedicated mode - have a security clearance, access approval, and valid need to know for **ALL** data processed by Dedicated system 
+  
+  * System High mode - have a security clearance and access approval for **ALL** data processed by System high mode system.  Also, valid need to know for data **PERSONALLY** accessed.
+  
+  * Compartmented mode - have a security clearance for **ALL** data processed by compartmented mode system.  Also, access approval and a valid need to know for data **PERSONALLY** accessed.
+  
+  * Multilevel mode - have a security clearance, access approval, and valid need to know for data **PERSONALLY** accessed.  (Requirements are enforced primarily by hardware or software on the system, not by limiting physical access)
           
