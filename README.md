@@ -88,9 +88,7 @@ Using a condom is **due care**, taking the steps to decide whether to use the co
           
 WTFPL License
 
-Disclaimer: Some of my mnemonics and tips are my own.  
-Some are freely given on Reddit.  
-Credit is given to those I can confirm as original.
+**Disclaimer:** Some of my mnemonics and tips are my own.  Some are freely given on Reddit.  I strive to give credit to original source where applicable.
 
 This program is free software. It comes without any warranty,
 to the extent permitted by applicable law.
