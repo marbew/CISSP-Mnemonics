@@ -59,10 +59,10 @@ Using a condom is **due care**, taking the steps to decide whether to use the co
 
 --------------------------------------------------------------------------------------------------------------------------
 Network Topologies
-   *Remember: **ring** topology is most **secure**. (if it is dedicated with no external connections)
-              **bus** topology is cheap, easy to set up, and good for small LANs. (If the single line of cable breaks, the network is down, devices can see others' packets)
-              **star** topology is most **common**.  (more resilient than two above if a device fails, but still dependent on central switch or hub)
-              **mesh** topology is best for **redundancy**.  (with **Full mesh** if a node fails, network traffic can be directed to any of the other nodes) 
+* **ring** topology is most **secure**. (if it is dedicated with no external connections)
+* **bus** topology is cheap, easy to set up, and good for small LANs. (If the single line of cable breaks, the network is down, devices can see others' packets)
+* **star** topology is most **common**.  (more resilient than two above if a device fails, but still dependent on central switch or hub)
+* **mesh** topology is best for **redundancy**.  (with **Full mesh** if a node fails, network traffic can be directed to any of the other nodes) 
               
 Note: There is also **partial mesh**, some nodes are organized in a full-mesh scheme, but others are connected to only one or two in the network. Partial mesh topology is commonly found in peripheral networks connected to a full meshed backbone network.)
    
