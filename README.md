@@ -32,7 +32,7 @@
   * "Please Do Not Throw Sausage Pizza Away" (going up)
   * "All People Seem To Need Data Processing" (going down)
 --------------------------------------------------------------------------------------------------------------------------
-**Risk Management**
+##### Risk Management
   * ALE = ARO x SLE   *think  "Ale causes arousle" 
   * SLE = AV x EF     *think Italian magician (or Mario) saying "I've got something up my sleav-ef"
   
@@ -58,7 +58,9 @@ Bell-LaPadula is confidential:  No read up and No write down.  (said another way
 Biba will be opposite:  No read down and no write up  (**Biba is NO WURD**) 
   * Remember: you can't write up as it would "pollute" the data
 --------------------------------------------------------------------------------------------------------------------------             
-System Security Modes (for systems that process classified data, what each user is required to have)
+##### System Security Modes 
+
+>that is, for systems that process classified data, what each user is required to have
 
   * <ins>Dedicated mode</ins> - have a security clearance, access approval, and valid need to know for **ALL** data processed by Dedicated system 
   
@@ -76,7 +78,7 @@ Using a condom is **due care**, taking the steps to decide whether to use the co
   (Think: You can entice a criminal, but only entrap an otherwise honest person.)
 
 --------------------------------------------------------------------------------------------------------------------------
-Network Topologies
+##### Network Topologies
 * <ins>ring</ins> topology is most **secure**. (if it is dedicated with no external connections)
 * <ins>bus</ins> topology is cheap, easy to set up, and good for small LANs. (If the single line of cable breaks, the network is down, devices can see others' packets)
 * <ins>star</ins> topology is most **common**.  (more resilient than two above if a device fails, but still dependent on central switch or hub)
@@ -120,7 +122,7 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
           
           
           
-####WTFPL License
+#### WTFPL License
 
 > **Disclaimer:** Some of my mnemonics and tips are my own creations.  Some are freely given on Reddit.  I strive to give credit to original source when and where applicable.
 
