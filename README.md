@@ -4,23 +4,23 @@
 ##### Asymmetric Encryption  
 > Also known as public key encryption (public key can be publicized without compromising security)<br>
   Remember: <ins>DEREK</ins>   
-  * _D_iffie-Hellman/_D_SA 
-  * _E_l-Gamal 
-  * [R]SA
-  * [E]lleptical Curve Cryptography (ECC)
-  * [K]napsack
+  * <ins>D</ins>iffie-Hellman/<ins>D</ins>SA 
+  * <ins>E</ins>l-Gamal 
+  * <ins>R</ins>SA
+  * <ins>E</ins>lleptical Curve Cryptography (ECC)
+  * <ins>K</ins>napsack
 --------------------------------------------------------------------------------------------------------------------------
 ##### Symmetric Encryption  
-> Also known as [s]hared key or [s]ecret key encryption.  Private key can be sent out-of-band
-  Remember: 23BRAIDS   
-  * [2]TwoFish
-  * [3]DES
-  * [B]lowfish
-  * [R]C5
-  * [A]ES
-  * [I]DEA
-  * [D]ES
-  * [S]AFER
+> Also known as [s]hared key or [s]ecret key encryption.  Private key can be sent out-of-band<br>
+  Remember: <ins>23BRAIDS</ins>   
+  * <ins>2</ins>TwoFish
+  * <ins>3</ins>DES
+  * <ins>B</ins>lowfish
+  * <ins>R</ins>C5
+  * <ins>A</ins>ES
+  * <ins>I</ins>DEA
+  * <ins>D</ins>ES
+  * <ins>S</ins>AFER
 --------------------------------------------------------------------------------------------------------------------------
 **Hash** Functions: *think of the good doctor: **SHA HAVAL, MD**
 
