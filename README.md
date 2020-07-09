@@ -47,11 +47,14 @@
 > Something you <ins>know</ins>, something you <ins>have</ins>, something you <ins>are</ins>
 
 --------------------------------------------------------------------------------------------------------------------------
-TCP Header Flags:  **URG  ACK  PSH  RST  SYN  FIN**
-  *think "<ins>U</ins>nskilled <ins>A</ins>ttackers <ins>P</ins>ester <ins>R</ins>eal <ins>S</ins>ecurity <ins>F</ins>olks"
+##### TCP Header Flags:  
+
+> **URG  ACK  PSH  RST  SYN  FIN**
+
+*think "<ins>U</ins>nskilled <ins>A</ins>ttackers <ins>P</ins>ester <ins>R</ins>eal <ins>S</ins>ecurity <ins>F</ins>olks"
   
 --------------------------------------------------------------------------------------------------------------------------
-Confidentiality and Integrity Models
+##### Confidentiality and Integrity Models
 * <ins>Simple</ins> Property: for read "Reading is simpler than writing."
 * <ins>Star</ins> Property:  for write  "It's written in the stars."
 
@@ -74,6 +77,8 @@ Biba will be opposite:  No read down and no write up  (**Biba is NO WURD**)
   
   * <ins>Multilevel mode</ins> - have a security clearance, access approval, and valid need to know for data **PERSONALLY** accessed.  (Requirements are enforced primarily by hardware or software on the system, not by limiting physical access)
 --------------------------------------------------------------------------------------------------------------------------
+##### MISCELLANEOUS
+
 Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
 
 Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
