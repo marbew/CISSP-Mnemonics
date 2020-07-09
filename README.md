@@ -37,19 +37,23 @@
   * SLE = AV x EF     *think Italian magician (or Mario) saying "I've got something up my sleav-ef"
   
 --------------------------------------------------------------------------------------------------------------------------  
-4 D's of Physical Security: [D]eter → [D]eny → [D]etect → [D]elay
+##### 4 D's of Physical Security: 
+
+> [D]eter → [D]eny → [D]etect → [D]elay
 
 --------------------------------------------------------------------------------------------------------------------------
-Multi-Factor Authentiation:  Something you [know], something you [have], something you [are]
+##### Multi-Factor Authentiation:  
+
+> Something you <ins>know</ins>, something you <ins>have</ins>, something you <ins>are</ins>
 
 --------------------------------------------------------------------------------------------------------------------------
 TCP Header Flags:  **URG  ACK  PSH  RST  SYN  FIN**
-  *think "[U]nskilled [A]ttackers [P]ester [R]eal [S]ecurity [F]olks"
+  *think "<ins>U</ins>nskilled <ins>A</ins>ttackers <ins>P</ins>ester <ins>R</ins>eal <ins>S</ins>ecurity <ins>F</ins>olks"
   
 --------------------------------------------------------------------------------------------------------------------------
 Confidentiality and Integrity Models
-* [Simple] Property: for read "Reading is simpler than writing."
-* [Star] Property:  for write  "It's written in the stars."
+* <ins>Simple</ins> Property: for read "Reading is simpler than writing."
+* <ins>Star</ins> Property:  for write  "It's written in the stars."
 
 Biba and Clark Wilson have the letter **i** in them, so Integrity Models
 Bell-LaPadula is confidential:  No read up and No write down.  (said another way, **Bell is WURD**) 
