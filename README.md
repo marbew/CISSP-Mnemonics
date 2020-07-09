@@ -122,7 +122,7 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
           
 WTFPL License
 
-**Disclaimer:** Some of my mnemonics and tips are my own.  Some are freely given on Reddit.  I strive to give credit to original source where applicable.
+> **Disclaimer:** Some of my mnemonics and tips are my own creations.  Some are freely given on Reddit.  I strive to give credit to original source when and where applicable.
 
 This program is free software. It comes without any warranty,
 to the extent permitted by applicable law.
@@ -135,12 +135,3 @@ See http://www.wtfpl.net/ for more details.
                    Version 2, December 2004
  
 Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
-Everyone is permitted to copy and distribute verbatim or modified
-copies of this license document, and changing it is allowed as long
-as the name is changed.
- 
-           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-  TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
- 0. You just DO WHAT THE FUCK YOU WANT TO.
