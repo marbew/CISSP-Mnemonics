@@ -86,7 +86,13 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
    
 
 --------------------------------------------------------------------------------------------------------------------------
+##### DR Recovery Sites 
 
+* <ins>Hot site</ins>- Organization needs site activation **immediately**; ready to go
+
+* <ins>Warm site</ins>- Organization has alt. site with equipment and data circuits available but nothing is connected and everything needs to be set up.  The main requirement in bringing a warm site to full operational status is the transportation of appropriate backup media to the site and restoration of critical data on the standby servers.  This can take from a a **few hours to a couple days.**  (Sybex sayss 12 hrs., other sources 24-48 hrs.)
+
+* <ins>Cold site</ins>- Organization has alternate site with power and cooling, but equipment needs to be ordered and may take a **few days to several weeks** to arrive, be configured, and then restoration of backup media.
           
           
           
