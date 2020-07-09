@@ -34,7 +34,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 **Risk Management**
   * ALE = ARO x SLE   *think  "Ale causes arousle" 
-  * SLE = AV x EF
+  * SLE = AV x EF     *think Italian magician (or Mario) saying "I've got something up my sleav-ef"
   
 --------------------------------------------------------------------------------------------------------------------------  
 4 D's of Physical Security: [D]eter → [D]eny → [D]etect → [D]elay
@@ -60,13 +60,13 @@ Biba will be opposite:  No read down and no write up  (**Biba is NO WURD**)
 --------------------------------------------------------------------------------------------------------------------------             
 System Security Modes (for systems that process classified data, what each user is required to have)
 
-  * Dedicated mode - have a security clearance, access approval, and valid need to know for **ALL** data processed by Dedicated system 
+  * <ins>Dedicated mode</ins> - have a security clearance, access approval, and valid need to know for **ALL** data processed by Dedicated system 
   
-  * System High mode - have a security clearance and access approval for **ALL** data processed by System high mode system.  Also, valid need to know for data **PERSONALLY** accessed.
+  * <ins>System High mode</ins> - have a security clearance and access approval for **ALL** data processed by System high mode system.  Also, valid need to know for data **PERSONALLY** accessed.
   
-  * Compartmented mode - have a security clearance for **ALL** data processed by compartmented mode system.  Also, access approval and a valid need to know for data **PERSONALLY** accessed.
+  * <ins>Compartmented mode</ins> - have a security clearance for **ALL** data processed by compartmented mode system.  Also, access approval and a valid need to know for data **PERSONALLY** accessed.
   
-  * Multilevel mode - have a security clearance, access approval, and valid need to know for data **PERSONALLY** accessed.  (Requirements are enforced primarily by hardware or software on the system, not by limiting physical access)
+  * <ins>Multilevel mode</ins> - have a security clearance, access approval, and valid need to know for data **PERSONALLY** accessed.  (Requirements are enforced primarily by hardware or software on the system, not by limiting physical access)
 --------------------------------------------------------------------------------------------------------------------------
 Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
 
@@ -90,11 +90,11 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 
 * <ins>Hot site</ins>- Organization needs site activation **immediately**; ready to go
 
-* <ins>Warm site</ins>- Organization has alt. site with equipment and data circuits available but nothing is connected and everything needs to be set up.  The main requirement in bringing a warm site to full operational status is the transportation of appropriate backup media to the site and restoration of critical data on the standby servers.  This can take from a a **few hours to a couple days.**  (Sybex sayss 12 hrs., other sources 24-48 hrs.)
+* <ins>Warm site</ins>- Organization has alt. site with equipment and data circuits available but nothing is connected and everything needs to be set up.  The main requirement in bringing a warm site to full operational status is the transportation of appropriate backup media to the site and restoration of critical data on the standby servers.  This can take from a a **few hours to a couple days.**  (Sybex says 12 hrs., other sources 24-48 hrs.)
 
 * <ins>Cold site</ins>- Organization has alternate site with power and cooling, but equipment needs to be ordered and may take a **few days to several weeks** to arrive, be configured, and then restoration of backup media.
           
-          
+--------------------------------------------------------------------------------------------------------------------------
           
           
           
