@@ -1,43 +1,57 @@
 # CISSP-Mnemonics and Tips
 
 
-Asymmetric Encryption:  Also known as public key encryption (public key can be publicized without compromising security)
-  * Remember: DEREK   Diffie-Hellman, El-Gamal, RSA, Elleptical Curve Cryptography (ECC), Knapsack
+**Asymmetric** Encryption:  Also known as public key encryption (public key can be publicized without compromising security)
+  Remember: DEREK   
+  * [D]iffie-Hellman/[D]SA 
+  * [E]l-Gamal 
+  * [R]SA
+  * [E]lleptical Curve Cryptography (ECC)
+  * [K]napsack
 --------------------------------------------------------------------------------------------------------------------------
-Symmetric Encryption:  Also known as shared key or secret key encryption.  Private key can be sent out-of-band
-  * Remember: 23BRAIDS   TwoFish, 3DES, Blowfish, RC5, AES, IDEA, DES, SAFER
+**[S]ymmetric** Encryption:  Also known as [s]hared key or [s]ecret key encryption.  Private key can be sent out-of-band
+  Remember: 23BRAIDS   
+  * [2]TwoFish
+  * [3]DES
+  * [B]lowfish
+  * [R]C5
+  * [A]ES
+  * [I]DEA
+  * [D]ES
+  * [S]AFER
 --------------------------------------------------------------------------------------------------------------------------
-Hash Functions: *think of the good doctor: SHA HAVAL, MD
+**Hash** Functions: *think of the good doctor: **SHA HAVAL, MD**
 
 --------------------------------------------------------------------------------------------------------------------------  
-OSI Model:  Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)
-  * Remember: "Please Do Not Throw Sausage Pizza Away" (going up)
-               "All People Seem To Need Data Processing" (going down)
+**OSI Model**:  Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)
+  Remember: 
+  * "Please Do Not Throw Sausage Pizza Away" (going up)
+  * "All People Seem To Need Data Processing" (going down)
 --------------------------------------------------------------------------------------------------------------------------
-Risk Management
-  ALE = ARO x SLE   *think  "Ale causes arousle" 
-  SLE = AV x EF
+**Risk Management**
+  * ALE = ARO x SLE   *think  "Ale causes arousle" 
+  * SLE = AV x EF
   
 --------------------------------------------------------------------------------------------------------------------------  
-4 D's of Physical Security: Deter → Deny → Detect → Delay
+4 D's of Physical Security: [D]eter → [D]eny → [D]etect → [D]elay
 
 --------------------------------------------------------------------------------------------------------------------------
-Multi-Factor Authentiation:  Something you know, something you have, something you are
+Multi-Factor Authentiation:  Something you [know], something you [have], something you [are]
 
 --------------------------------------------------------------------------------------------------------------------------
-TCP Header Flags:  URG  ACK  PSH  RST  SYN  FIN
-  *think "Unskilled Attackers Pester Real Security Folks"
+TCP Header Flags:  **URG  ACK  PSH  RST  SYN  FIN**
+  *think "[U]nskilled [A]ttackers [P]ester [R]eal [S]ecurity [F]olks"
   
 --------------------------------------------------------------------------------------------------------------------------
 Confidentiality and Integrity Models
-Simple Property: for read "Reading is simpler than writing."
-Star Property:  for write  "It's written in the stars."
+* [Simple] Property: for read "Reading is simpler than writing."
+* [Star] Property:  for write  "It's written in the stars."
 
-Biba and Clark Wilson have the letter "i" in them, so Integrity Models
-Bell-LaPadula is confidential:  No read up and No write down.  "WURD"  
+Biba and Clark Wilson have the letter **i** in them, so Integrity Models
+Bell-LaPadula is confidential:  No read up and No write down.  (said another way, **Bell is WURD**) 
   * Remember:  You don't want someone read up above their security level
   
-Biba will be opposite 
+Biba will be opposite:  No read down and no write up  (**Biba is NO WURD**) 
   * Remember: you can't write up as it would "pollute" the data
 --------------------------------------------------------------------------------------------------------------------------             
 System Security Modes (for systems that process classified data, what each user is required to have)
