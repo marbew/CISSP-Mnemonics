@@ -22,10 +22,12 @@
   * <ins>D</ins>ES
   * <ins>S</ins>AFER
 --------------------------------------------------------------------------------------------------------------------------
-**Hash** Functions: *think of the good doctor: **SHA HAVAL, MD**
+##### Hash Functions: 
+> Think of the good doctor: <ins>SHA HAVAL, MD</ins>
 
 --------------------------------------------------------------------------------------------------------------------------  
-**OSI Model**:  Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)
+##### OSI Model:  
+> Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)<br>
   Remember: 
   * "Please Do Not Throw Sausage Pizza Away" (going up)
   * "All People Seem To Need Data Processing" (going down)
