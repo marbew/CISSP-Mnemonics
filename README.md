@@ -2,7 +2,7 @@
 
 
 ##### Asymmetric Encryption  
-> Also known as public key encryption (public key can be publicized without compromising security)
+> Also known as public key encryption (public key can be publicized without compromising security)<br>
   Remember: <ins>DEREK</ins>   
   * _D_iffie-Hellman/_D_SA 
   * _E_l-Gamal 
