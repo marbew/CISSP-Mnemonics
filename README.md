@@ -1,15 +1,17 @@
 # CISSP-Mnemonics and Tips
 
 
-**Asymmetric** Encryption:  Also known as public key encryption (public key can be publicized without compromising security)
-  Remember: DEREK   
-  * [D]iffie-Hellman/[D]SA 
-  * [E]l-Gamal 
+##### Asymmetric Encryption  
+> Also known as public key encryption (public key can be publicized without compromising security)
+  Remember: <ins>DEREK</ins>   
+  * _D_iffie-Hellman/_D_SA 
+  * _E_l-Gamal 
   * [R]SA
   * [E]lleptical Curve Cryptography (ECC)
   * [K]napsack
 --------------------------------------------------------------------------------------------------------------------------
-**[S]ymmetric** Encryption:  Also known as [s]hared key or [s]ecret key encryption.  Private key can be sent out-of-band
+##### Symmetric Encryption  
+> Also known as [s]hared key or [s]ecret key encryption.  Private key can be sent out-of-band
   Remember: 23BRAIDS   
   * [2]TwoFish
   * [3]DES
