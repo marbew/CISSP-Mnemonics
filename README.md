@@ -106,8 +106,14 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 * <ins>Cold site</ins>- Organization has alternate site with power and cooling, but equipment needs to be ordered and may take a **few days to several weeks** to arrive, be configured, and then restoration of backup media.
           
 --------------------------------------------------------------------------------------------------------------------------
+##### Inherited and Explicit Rights and Permissions
+
+* <ins>Rights</ins>- grant users ability to perform specific actions on a **system**.
+* <ins>Permissions</ins>- enable users to read, write to, or execute **files**, that is a particular object on a file system.
+* <ins>Inherited</ins>- user account inherits as a result of being a member of a security **group** that has been assigned that right.
+* <ins>Explicit</ins>- assigned to a user at the **user account** level.
           
-          
+--------------------------------------------------------------------------------------------------------------------------
           
           
           
