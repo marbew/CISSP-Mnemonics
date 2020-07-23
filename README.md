@@ -114,8 +114,19 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 * <ins>Explicit</ins>- assigned to a user at the **user account** level.
           
 --------------------------------------------------------------------------------------------------------------------------
-          
-          
+##### Change Management and Configuration Management
+> Change Management Steps:
+  * 1. Request the change
+  * 2. Review the change
+  * 3. Approve or reject the change
+  * 4. Test the change
+  * 5. Schedule and implement the change
+  * 6. Document the change
+
+>Configuration Management Steps:
+  * 1. Baselining
+  * 2. Patch management
+  * 3. Vulnerability management
           
           
           
