@@ -76,15 +76,6 @@ Biba will be opposite:  No read down and no write up  (**Biba is NO WURD**)
   * <ins>Compartmented mode</ins> - have a security clearance for **ALL** data processed by compartmented mode system.  Also, access approval and a valid need to know for data **PERSONALLY** accessed.
   
   * <ins>Multilevel mode</ins> - have a security clearance, access approval, and valid need to know for data **PERSONALLY** accessed.  (Requirements are enforced primarily by hardware or software on the system, not by limiting physical access)
---------------------------------------------------------------------------------------------------------------------------
-##### MISCELLANEOUS
-
-Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
-
-Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
-
-**Entrapment** is when law enforcement persuades someone to commit a crime that they otherwise would not have committed. **Enticement** is when the person would have committed (or intended to commit the crime) anyway.   (Source: Sybex OSG 7th Ed.)
-  (Think: You can entice a criminal, but only entrap an otherwise honest person.)
 
 --------------------------------------------------------------------------------------------------------------------------
 ##### Network Topologies
@@ -123,13 +114,37 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
   * 5. Schedule and implement the change
   * 6. Document the change
 
->Configuration Management Steps:
+> Configuration Management Steps:
   * 1. Baselining
   * 2. Patch management
   * 3. Vulnerability management
           
+--------------------------------------------------------------------------------------------------------------------------
+##### MISCELLANEOUS
+
+Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
+
+Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
+
+**Entrapment** is when law enforcement persuades someone to commit a crime that they otherwise would not have committed. 
+**Enticement** is when the person would have committed (or intended to commit the crime) anyway.   (Source: Sybex OSG 7th Ed.)
+  (Think: You can entice a criminal, but only entrap an otherwise honest person.)
           
-          
+False Positive (Accept) - ACS identifies unauthorized user as authorized user
+False Negative (Reject) - ACS does not validate an authorized user (Note: more acceptable than false accepts)
+
+Pipelining - method by which CPU can process more than 1 instruction per clock cycle
+> Fetch -> Decode -> Execute -> Write
+Once an instruction moves on to next stage, a new instruction can be fetched
+
+need to know - user has no access to info. that is not required by the user
+Example:  Restricting a CIO from accessing financial reports
+
+least privilege- user has no more access to a resource than what is required to do that user's job
+Example: User who reviews sales figures has read-only access, but cannot modify them
+
+Incident Response steps
+Detection - response - Mitigation - Reporting - Recovery - Remediation - Lessons Learned
           
           
           
