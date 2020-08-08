@@ -90,9 +90,9 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 --------------------------------------------------------------------------------------------------------------------------
 ##### DR Recovery Sites 
 
-* <ins>Hot site</ins>- Organization needs site activation **immediately**; ready to go
+* <ins>Hot site</ins>- Organization needs site activation **immediately**; ready to go within **minutes or hours**.
 
-* <ins>Warm site</ins>- Organization has alt. site with equipment and data circuits available but nothing is connected and everything needs to be set up.  The main requirement in bringing a warm site to full operational status is the transportation of appropriate backup media to the site and restoration of critical data on the standby servers.  This can take from a a **few hours to a couple days.**  (Sybex says 12 hrs., other sources 24-48 hrs.)
+* <ins>Warm site</ins>- Organization has alt. site with equipment and data circuits available but nothing is connected and everything needs to be set up.  The main requirement in bringing a warm site to full operational status is the transportation of appropriate backup media to the site and restoration of critical data on the standby servers.  This can take from a a **one to three days.**  (Sybex says as little as 12 hrs., other sources 24-48 hrs.)
 
 * <ins>Cold site</ins>- Organization has alternate site with power and cooling, but equipment needs to be ordered and may take a **few days to several weeks** to arrive, be configured, and then restoration of backup media.
           
@@ -105,7 +105,7 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 * <ins>Explicit</ins>- assigned to a user at the **user account** level.
           
 --------------------------------------------------------------------------------------------------------------------------
-##### Change Management and Configuration Management
+##### Change Management, Configuration Management, Incident Response, and BCP Steps
 > Change Management Steps:
   * 1. Request the change
   * 2. Review the change
@@ -118,33 +118,49 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
   * 1. Baselining
   * 2. Patch management
   * 3. Vulnerability management
+  
+> Incident Response Steps:  
+  * 1. Detection
+  * 2. Response
+  * 3. Mitigation
+  * 4. Reporting
+  * 5. Recovery
+  * 6. Remediation
+  * 7. Lessons Learned
           
+> BCP Steps:  
+  * 1. Develop a BCP policy statement
+  * 2. Conduct a BIA
+  * 3. Identify preventative controls
+  * 4. Develop recovery strategies
+  * 5. Develop an IT contingency plan (DRP)
+  * 6. Perform DRP training and testing
+  * 7. Perform BCP/DRP maintenance
 --------------------------------------------------------------------------------------------------------------------------
 ##### MISCELLANEOUS
 
-Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
+* Retinal scan is most intrusive to privacy  (*think ret-inal = anal, intrusive!  It's inappropriate, but you remember it!) 
 
-Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
+* Using a condom is **due care**, taking the steps to decide whether to use the condom is **due diligence**. (Source: Luke Ahmed)
 
 **Entrapment** is when law enforcement persuades someone to commit a crime that they otherwise would not have committed. 
 **Enticement** is when the person would have committed (or intended to commit the crime) anyway.   (Source: Sybex OSG 7th Ed.)
   (Think: You can entice a criminal, but only entrap an otherwise honest person.)
           
-False Positive (Accept) - ACS identifies unauthorized user as authorized user
-False Negative (Reject) - ACS does not validate an authorized user (Note: more acceptable than false accepts)
+* False Positive (Accept) - ACS identifies unauthorized user as authorized user
+* False Negative (Reject) - ACS does not validate an authorized user (Note: more acceptable than false accepts)
 
-Pipelining - method by which CPU can process more than 1 instruction per clock cycle
+**Pipelining** - method by which CPU can process more than 1 instruction per clock cycle
 > Fetch -> Decode -> Execute -> Write
 Once an instruction moves on to next stage, a new instruction can be fetched
 
-need to know - user has no access to info. that is not required by the user
+**need to know** - user has no access to info. that is not required by the user
 Example:  Restricting a CIO from accessing financial reports
 
-least privilege- user has no more access to a resource than what is required to do that user's job
+**least privilege**- user has no more access to a resource than what is required to do that user's job
 Example: User who reviews sales figures has read-only access, but cannot modify them
 
-Incident Response steps
-Detection - response - Mitigation - Reporting - Recovery - Remediation - Lessons Learned
+
           
           
           
