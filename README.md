@@ -24,7 +24,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 ##### Hash Functions: 
 > Think of the good doctor: <ins>SHA HAVAL, MD</ins>
-
+MD can create a 128-bit hash value.  SHA can create a 160-bit hash value (SHA-1), SHA-256 produces a 256-bit hash , SHA-384 produces a 384-bit hash, and SHA-512 produces a 512-bit hash.
 --------------------------------------------------------------------------------------------------------------------------  
 ##### OSI Model:  
 > Physical (Level 1), Datalink, Network, Transport, Session, Presentation, Application (Level 7)<br>
