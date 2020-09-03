@@ -20,7 +20,7 @@
   * <ins>A</ins>ES
   * <ins>I</ins>DEA
   * <ins>D</ins>ES
-  * <ins>S</ins>AFER
+  * <ins>S</ins>AFER/Skipjack
 --------------------------------------------------------------------------------------------------------------------------
 ##### Hash Functions: 
 > Think of the good doctor: <ins>SHA HAVAL, MD</ins>
