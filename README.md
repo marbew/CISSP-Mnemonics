@@ -105,7 +105,7 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
 * <ins>Explicit</ins>- assigned to a user at the **user account** level.
           
 --------------------------------------------------------------------------------------------------------------------------
-##### Change Management, Configuration Management, Incident Response, and BCP Steps
+##### Change Management, Configuration Management, Incident Response, BCP, and Electronic Discovery Steps
 > Change Management Steps:
   * 1. Request the change
   * 2. Review the change
@@ -136,6 +136,15 @@ Note: There is also **partial mesh**, some nodes are organized in a full-mesh sc
   * 5. Develop an IT contingency plan (DRP)
   * 6. Perform DRP training and testing
   * 7. Perform BCP/DRP maintenance
+  
+> Electronic Discovery Steps:  
+  * 1. Identification: potentially responsive documents are identified for further analysis and review
+  * 2. Preservation: data identified as potentially relevant is placed in a legal hold to ensure it cannot be destroyed
+  * 3. Collection:  transfer of data from a company to their legal counsel
+  * 4. Processing: Various data culling techniques are employed during this phase, such as deduplication and de-NISTing
+  * 5. Review: documents are reviewed for responsiveness to discovery requests and for privilege
+  * 6. Production: documents are turned over to opposing counsel, based on agreed-upon specifications
+ 
 --------------------------------------------------------------------------------------------------------------------------
 ##### MISCELLANEOUS
 
