@@ -168,38 +168,3 @@ Example:  Restricting a CIO from accessing financial reports
 
 **least privilege**- user has no more access to a resource than what is required to do that user's job
 Example: User who reviews sales figures has read-only access, but cannot modify them
-
-
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-#### WTFPL License
-
-> **Disclaimer:** Some of my mnemonics and tips are my own creations.  Some are freely given on Reddit.  I strive to give credit to original source when and where applicable.
-
-This program is free software. It comes without any warranty,
-to the extent permitted by applicable law.
-You can redistribute it and/or modify it under the terms of the
-Do What The Fuck You Want To Public License,
-Version 2, as published by Sam Hocevar.
-See http://www.wtfpl.net/ for more details.
-
-   DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                   Version 2, December 2004
- 
-Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
